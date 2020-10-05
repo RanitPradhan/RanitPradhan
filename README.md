@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://octodex.github.com/images/hubot.jpg" height="170px" width="170px"> <img src="https://octodex.github.com/images/octocat-de-los-muertos.jpg" height="170px" width="170px"> <img src="https://octodex.github.com/images/inspectocat.jpg" height="170px" width="170px"></p>
 
 <p align="center">
-	<a> <strong> Hi there, I'm Shashank <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> </strong></a>
+	<a> <strong> Hi there, I'm Ranit Pradhan <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> </strong></a>
 </p>
 
 
@@ -24,10 +24,10 @@
 <p align="center">
 <img align="center" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
 </p>
-<p align="center"><a href="https://github.com/robustTechie"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=robustTechie&show_icons=true&hide_border=false&title_color=d23354&icon_color=0078e7&text_color=9f9f9f&bg_color=151515" alt="Animated footer bars" /></a></p>
+<p align="center"><a href="https://github.com/robustTechie"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RanitPradhan&show_icons=true&hide_border=false&title_color=d23354&icon_color=0078e7&text_color=9f9f9f&bg_color=151515" alt="Animated footer bars" /></a></p>
  
 
-<p align="center"><a href="https://github.com/robustTechie"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
+<p align="center"><a href="https://github.com/RanitPradhan"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
 <!--
 **robustTechie/robustTechie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
