@@ -13,7 +13,7 @@
 <a href="https://RanitPradhan.github.io/"><img src="https://img.shields.io/badge/website-RanitPradhan.github.io-1f425f?style=flat-square">  </a>
 </p>
 
-<a href="https://komarev.com/ghpvc/?username=RanitPradhan"></a>
+<a href="https://komarev.com/ghpvc/?username=RanitPradhan">https://komarev.com/ghpvc/?username=RanitPradhan</a>
 
 <p align="center">
 	<a>🔭 I’m currently working on the <a href = "https://github.com/WebDevelopment">Website Development</a>  <br>
