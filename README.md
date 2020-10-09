@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<a href="https://twitter.com/RanitPradhan"><img src="https://img.shields.io/badge/twitter-@RanitPradhan-1da1f2?style=flat-square&logo=twitter">  </a>
+<a href="https://twitter.com/@pradhan_ranit"><img src="https://img.shields.io/badge/twitter-@RanitPradhan-1da1f2?style=flat-square&logo=twitter">  </a>
 <a href="https://www.linkedin.com/in/RanitPradhan-55046119a/"><img src="https://img.shields.io/badge/linkedin-RanitPradhan-0077b5?style=flat-square&logo=linkedin">  </a>
 <a href="https://RanitPradhan.github.io/"><img src="https://img.shields.io/badge/website-RanitPradhan.github.io-1f425f?style=flat-square">  </a>
 </p>
