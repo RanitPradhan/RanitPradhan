@@ -12,6 +12,7 @@
 <a href="https://www.linkedin.com/in/ranit-pradhan-55046119a/"><img src="https://img.shields.io/badge/linkedin-RanitPradhan-0077b5?style=flat-square&logo=linkedin">  </a>
 <a href="https://RanitPradhan.github.io/"><img src="https://img.shields.io/badge/website-RanitPradhan.github.io-1f425f?style=flat-square">  </a>
 </p>
+###
 ![](https://komarev.com/ghpvc/?username=RanitPradhan)
 <p align="center">
 	<a>🔭 I’m currently working on the <a href = "https://github.com/WebDevelopment">Website Development</a>  <br>
