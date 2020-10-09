@@ -11,9 +11,8 @@
 <a href="https://twitter.com/@pradhan_ranit"><img src="https://img.shields.io/badge/twitter-@RanitPradhan-1da1f2?style=flat-square&logo=twitter">  </a>
 <a href="https://www.linkedin.com/in/ranit-pradhan-55046119a/"><img src="https://img.shields.io/badge/linkedin-RanitPradhan-0077b5?style=flat-square&logo=linkedin">  </a>
 <a href="https://RanitPradhan.github.io/"><img src="https://img.shields.io/badge/website-RanitPradhan.github.io-1f425f?style=flat-square">  </a>
-![](https://komarev.com/ghpvc/?username=RanitPradhan)
 </p>
-
+![](https://komarev.com/ghpvc/?username=RanitPradhan)
 <p align="center">
 	<a>🔭 I’m currently working on the <a href = "https://github.com/WebDevelopment">Website Development</a>  <br>
 	<a> :hammer_and_wrench: An Active IEEE Member eager to do design something innovative:hammer_and_wrench:.</a> <br>
