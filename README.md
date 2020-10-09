@@ -20,9 +20,10 @@
   <a> Open Source Enthusiast.</a> <br>
   
 </p>
-#### :gear: Experience
+#### :gear: Tools and Tech 
+
 ![](https://img.shields.io/badge/CSS3-Frontend-informational?style=flat&logo=CSS&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/C++-Lang-informational?style=flat&logo=C++logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Python-Lang-informational?style=flat&logo=pythonlogoColor=white&color=2bbc8a)
-![]
+
 <p align="center">
 <img align="center" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
 </p>
