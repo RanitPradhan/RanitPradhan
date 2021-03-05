@@ -31,7 +31,9 @@
 <p align="center">
 <img align="center" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
 </p>
-<p align="left"><a href="https://github.com/RanitPradhan"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RanitPradhan&show_icons=true&hide_border=false&title_color=d23354&icon_color=0078e7&text_color=9f9f9f&bg_color=151515" alt="Animated footer bars" /></a></p><p align="right"><a href="https://github.com/RanitPradhan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitPradhan&theme=tokyonight" alt="Animated footer bars" /></a></p>
+<p align="center"><a href="https://github.com/RanitPradhan"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RanitPradhan&show_icons=true&hide_border=false&title_color=d23354&icon_color=0078e7&text_color=9f9f9f&bg_color=151515" alt="Animated footer bars" /></a></p>
+
+<p align="center"><a href="https://github.com/RanitPradhan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitPradhan&theme=tokyonight" alt="Animated footer bars" /></a></p>
 
 
 <p align="center"><a href="https://github.com/V!p3r"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
