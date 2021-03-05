@@ -17,8 +17,8 @@
 ![](https://komarev.com/ghpvc/?username=RanitPradhan)
 
 <p align="center">
-	<a>🔭 I’m currently working on the <a href = "https://github.com/WebDevelopment">Website Development</a>  <br>
-	<a> :hammer_and_wrench: An Active IEEE Member eager to do design something innovative:hammer_and_wrench:.</a> <br>
+	<a>🔭 I’m currently working on the <a href = "https://github.com/WebDevelopment">Reverse Engineering</a>  <br>
+	<a> :hammer_and_wrench: An Active Team bi0s Hardware trainee eager to do design something innovative:hammer_and_wrench:.</a> <br>
 	<a> 📫 How to reach me: I live on the internet <a href = "https://www.google.co.in/search?q=RanitPradhan"> @Viper_Ranit.</a> 📫 <br>
   <a> Open Source Enthusiast.</a> <br>
   
