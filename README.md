@@ -19,7 +19,7 @@
 <p align="center">
 	<a>🔭 I’m currently working on the <a href = "https://github.com/WebDevelopment">Reverse Engineering</a>  <br>
 	<a> :hammer_and_wrench: An Active Team bi0s Hardware trainee eager to do design something innovative:hammer_and_wrench:.</a> <br>
-	<a> 📫 How to reach me: I live on the internet <a href = "https://www.google.co.in/search?q=RanitPradhan"> @Viper_Ranit.</a> 📫 <br>
+	<a> 📫 How to reach me: I live on the internet <a href = "https://www.google.co.in/search?q=RanitPradhan"> @V!p3r.</a> 📫 <br>
   <a> Open Source Enthusiast.</a> <br>
   
 </p>
@@ -31,14 +31,14 @@
 <p align="center">
 <img align="center" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
 </p>
-<p align="center"><a href="https://github.com/RanitPradhan"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RanitPradhan&show_icons=true&hide_border=false&title_color=d23354&icon_color=0078e7&text_color=9f9f9f&bg_color=151515" alt="Animated footer bars" /></a></p>
+<p align="left"><a href="https://github.com/RanitPradhan"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RanitPradhan&show_icons=true&hide_border=false&title_color=d23354&icon_color=0078e7&text_color=9f9f9f&bg_color=151515" alt="Animated footer bars" /></a></p>
  
  
  
-<p align="center"><a href="https://github.com/RanitPradhan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitPradhan&theme=tokyonight" alt="Animated footer bars" /></a></p>
+<p align="right"><a href="https://github.com/RanitPradhan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitPradhan&theme=tokyonight" alt="Animated footer bars" /></a></p>
 
 
-<p align="center"><a href="https://github.com/Viper_Ranit"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
+<p align="center"><a href="https://github.com/V!p3r"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
 <!--
 **Viper_Ranit/Viper_Ranit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
