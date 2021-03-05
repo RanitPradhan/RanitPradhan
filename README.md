@@ -17,7 +17,7 @@
 ![](https://komarev.com/ghpvc/?username=RanitPradhan)
 
 <p align="center">
-	<a>🔭 I’m currently working on the <a href = "https://github.com/WebDevelopment">Reverse Engineering</a>  <br>
+	<a>🔭 I’m currently working on the <a href = "https://github.com/topics/reverse-engineering">Reverse Engineering</a>  <br>
 	<a> :hammer_and_wrench: An Active Team bi0s Hardware trainee eager to do design something innovative:hammer_and_wrench:.</a> <br>
 	<a> 📫 How to reach me: I live on the internet <a href = "https://www.google.co.in/search?q=RanitPradhan"> @V!p3r.</a> 📫 <br>
   <a> Open Source Enthusiast.</a> <br>
@@ -32,8 +32,6 @@
 <img align="center" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
 </p>
 <p align="left"><a href="https://github.com/RanitPradhan"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RanitPradhan&show_icons=true&hide_border=false&title_color=d23354&icon_color=0078e7&text_color=9f9f9f&bg_color=151515" alt="Animated footer bars" /></a></p>
- 
- 
  
 <p align="right"><a href="https://github.com/RanitPradhan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitPradhan&theme=tokyonight" alt="Animated footer bars" /></a></p>
 
