@@ -17,7 +17,7 @@
 ![](https://komarev.com/ghpvc/?username=RanitPradhan)
 
 <p align="center">
-	<a>🔭 I’m currently working on the <a href = "https://github.com/topics/reverse-engineering">Reverse Engineering</a>  <br>
+	<a>🔭 I’m currently working on the <a href = "https://bi0s.in/hardware.html">Hardware Security</a>  <br>
 	<a> :hammer_and_wrench: An Active <B>Team bi0s</B> Hardware trainee eager to do design something innovative:hammer_and_wrench:.</a> <br>
 	<a> 📫 How to reach me: I live on the internet <a href = "https://www.google.co.in/search?q=RanitPradhan"> @V!p3r.</a> 📫 <br>
   <a> Open Source Enthusiast.</a> <br>
