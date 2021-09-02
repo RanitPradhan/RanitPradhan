@@ -1,43 +1,63 @@
-<p align="center"><a href="https://github.com/devtechnocode"><img src="https://user-images.githubusercontent.com/41234408/90637369-87611d00-e249-11ea-958a-99fbac1e90eb.gif" alt="Animated footer bars" width="100%"/></a></p>
-
-<p align="center"> <img src="https://octodex.github.com//images/constructocat2.jpg" height="170px" width="170px"> <img src="https://octodex.github.com//images/gobbleotron.gif" height="170px" width="170px"> <img src="https://octodex.github.com/images/inspectocat.jpg" height="170px" width="170px">
-</p>
-
-<p align="center">
-	<a> <strong> Hi there, I'm Ranit Pradhan <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> </strong></a>
-</p>
+# Ranit Pradhan&nbsp;<img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Developer.gif" width="30px">
 
 
-<p align="center">
-<a href="https://twitter.com/@pradhan_ranit"><img src="https://img.shields.io/badge/twitter-@RanitPradhan-1da1f2?style=flat-square&logo=twitter">  </a>
-<a href="https://www.linkedin.com/in/ranit-pradhan-55046119a/"><img src="https://img.shields.io/badge/linkedin-RanitPradhan-0077b5?style=flat-square&logo=linkedin">  </a>
-<a href="https://RanitPradhan.github.io/"><img src="https://img.shields.io/badge/website-RanitPradhan.github.io-1f425f?style=flat-square">  </a>
-</p>
+<!-- 
+    &nbsp; [![HitCount](http://hits.dwyl.com/reachvivek/reachvivek.svg)](http://hits.dwyl.com/reachvivek/reachvivek)
+-->
 
-![](https://komarev.com/ghpvc/?username=RanitPradhan)
-
-<p align="center">
-	<a>🔭 I’m currently working on the <a href = "https://bi0s.in/hardware.html">Hardware Security</a>  <br>
-	<a> :hammer_and_wrench: An Active <B>Team bi0s</B> Hardware trainee eager to do design something innovative:hammer_and_wrench:.</a> <br>
-	<a> 📫 How to reach me: I live on the internet <a href = "https://www.google.co.in/search?q=RanitPradhan"> @V!p3r.</a> 📫 <br>
-  <a> Open Source Enthusiast.</a> <br>
-  
-</p>
-
-#### :gear: Tools and Tech 
-
-![](https://img.shields.io/badge/Ardunio-Hardware-informational?style=flat&logo=arduniologoColor=white&color=2bbc8a)![](https://img.shields.io/badge/C-Lang-informational?style=flat&logo=ClogoColor=white&color=2bbc8a)![](https://img.shields.io/badge/CSS3-Frontend-informational?style=flat&logo=CSS&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/C++-Lang-informational?style=flat&logo=C++logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Python-Lang-informational?style=flat&logo=pythonlogoColor=white&color=2bbc8a)
-
-<p align="center"><a href="https://github.com/RanitPradhan"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RanitPradhan&show_icons=true&hide_border=false&title_color=d23354&icon_color=0078e7&text_color=9f9f9f&bg_color=151515" alt="Animated footer bars" /></a></p>
-
-<p align="center"><a href="https://github.com/RanitPradhan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitPradhan&theme=tokyonight" alt="Animated footer bars" /></a></p>
+### <img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Hi.gif" width="29px"> Hello World!&nbsp;<img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Earth.gif" width="24px">
 
 
-<p align="center"><a href="https://github.com/V!p3r"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
-<!--
-**Viper_Ranit/Viper_Ranit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+- <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping**  😴  *or working* on my **Linux** 👨‍💻
+- <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** in **Full Stack Development** and currently learning **Cloud Development** With Azure💪.
+- <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **Embedded & IoT Security  Projects**.
+- <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/hmm.gif" width="20vw" /> I Love **Full Stack Development** and **CloudOps**🌐
+- <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** fan of **Copy Ninja**
+- <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do leave a **Star** ⭐️ if you liked my work 👨‍💻.
+<br>
+
+## Spotify Playing 🎧
+
+[<img src="https://spotify-now-playing.reachvivek.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/playlist/24444dq8Vmm9FzdwDhGFPv?si=Yskd6_lISbSxxIWF8aRRYg)
 
 
---
+<br>
+
+
+![V!p3r's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RanitPradhan&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+
+<br>
+
+![Top Langs](https://github-readme-stats.RanitPradhan.vercel.app/api/top-langs/?username=RanitPradhan&theme=radical)<img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+
+
+<br>
+
+## Languages and Tools:
+
+<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=c&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=c++&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>   <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Jupyter_Notebook%20-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>  <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=arm&logoColor=white"/>  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/> 
+
+<br>
+<img src="https://c.tenor.com/dCffHrZ-4s0AAAAM/chidori-kakashi.gif" alt="chidori-kakashi">
+
+
+# Connect with me<img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Handshake.gif" height="32px">
+
+  <a href="https://www.linkedin.com/in/ranit-pradhan/">
+    <img align="left" alt="Vivek Kumar Singh | Linkedin" width="24px" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/_r4nit/">
+    <img align="left" alt="Vivek Kumar Singh | Instagram" width="24px" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:pradhanranit0019@gmail.com">
+    <img align="left" alt="Vivek Kumar Singh | Gmail" width="26px" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Gmail.svg" />
+  </a>
+
+
+<br><br>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=reachvivek)
+<!-- ![visitors](https://badges.pufler.dev/visits/reachvivek/reachvivek)
+![Visitor Count](https://profile-counter.glitch.me/reachvivek/count.svg) -->
