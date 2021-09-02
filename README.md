@@ -20,7 +20,7 @@
 
 ## Spotify Playing 🎧
 
-[![Spotify](https://novatorem.Ranit_007.vercel.app/api/spotify)](https://open.spotify.com/)
+[<img src="https://spotify-now-playing.RanitPradhan.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/playlist/0doj9dMA7e2N5RhmIKtU8g)
 
 
 <br>
