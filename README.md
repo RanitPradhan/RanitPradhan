@@ -20,7 +20,7 @@
 
 ## Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing.RanitPradhan.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/playlist/3q4o0riM0czubeWI2cYx26)
+[<img src="https://spotify-now-playing.RanitPradhan.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/playlist/5jXjKwYIAXQDYy82DmXkZe)
 
 
 <br>
@@ -30,8 +30,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.RanitPradhan.vercel.app/api/top-langs/?username=RanitPradhan&theme=radical)<img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
-
+![Top Langs](https://github-readme-stats.RanitPradhan.vercel.app/api/top-langs/?username=RanitPradhan&theme=radical)
 
 <br>
 
