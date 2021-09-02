@@ -26,8 +26,8 @@
 <br>
 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=a3x3k&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img src="https://github-readme-stats.vercel.app/api?username=a3x3k&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="420" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RanitPradhan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api?username=RanitPradhan&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="420" /></p>
 
 ## Languages and Tools:
 
