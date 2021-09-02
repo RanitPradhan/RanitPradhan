@@ -20,7 +20,7 @@
 
 ## Spotify Playing 🎧
 
-[![Spotify](https://RanitPradhan.vercel.app/api/spotify)](https://open.spotify.com/user/RanitPradhan)
+[![Spotify](https://31e43sjdkun2h5qiqfcq7pljqm4y.vercel.app/api/spotify)](https://open.spotify.com/user/31e43sjdkun2h5qiqfcq7pljqm4y)
 
 <br>
 
