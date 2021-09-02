@@ -11,16 +11,16 @@
 <br>
 
 - <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping**  😴  *or working* on my **Linux** 👨‍💻
-- <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** in **Full Stack Development** and currently learning **Cloud Development** With Azure💪.
+- <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m trying to **good** in **Embedded Systems Development**.
 - <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **Embedded & IoT Security  Projects**.
-- <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/hmm.gif" width="20vw" /> I Love **Full Stack Development** and **CloudOps**🌐
-- <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** Fan of **Copy Ninja**
+- <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/hmm.gif" width="20vw" /> I Love **Playing CTFs**🚩 and **Finding** 🐛
+- <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** Fan of [**Copy Ninja**](https://www.google.com/search?gs_ssp=eJzj4tTP1TdINyzPqjJg9GLPTsxOLM7IBAA_JwZg&q=kakashi&rlz=1C1ZKTG_enIN859IN859&oq=kakashi&aqs=chrome.1.69i59j46i275i433i512j69i59j0i433i512j0i20i263i433i512l2j0i433i512j69i60.4489j0j7&sourceid=chrome&ie=UTF-8)
 - <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do leave a **Star** ⭐️ if you liked my work 👨‍💻.
 <br>
 
 ## Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing.RanitPradhan.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/playlist/5jXjKwYIAXQDYy82DmXkZe)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/)
 
 
 <br>
@@ -31,6 +31,7 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.RanitPradhan.vercel.app/api/top-langs/?username=RanitPradhan&theme=radical)
+
 
 <br>
 
