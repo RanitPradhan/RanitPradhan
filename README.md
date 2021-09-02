@@ -26,21 +26,15 @@
 <br>
 
 
-![V!p3r's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RanitPradhan&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
-
-<br>
-
-![Top Langs](https://github-readme-stats.RanitPradhan.vercel.app/api/top-langs/?username=RanitPradhan&theme=radical)
-
-
-<br>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=a3x3k&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api?username=a3x3k&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="420" /></p>
 
 ## Languages and Tools:
 
 <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>   <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Jupyter_Notebook%20-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>  <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/arm-%2300ADD8.svg?&style=for-the-badge&logo=arm&logoColor=white"/>  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
 
 <br>
-<img src="https://c.tenor.com/dCffHrZ-4s0AAAAM/chidori-kakashi.gif" alt="chidori-kakashi" width="500px">
+<img src="https://c.tenor.com/dCffHrZ-4s0AAAAM/chidori-kakashi.gif" alt="chidori-kakashi" height="100px" width="100px">
 
 
 # Connect with me<img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Handshake.gif" height="32px">
