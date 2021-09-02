@@ -20,7 +20,7 @@
 
 ## Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/)
+[![Spotify](https://novatorem.Ranit_007.vercel.app/api/spotify)](https://open.spotify.com/)
 
 
 <br>
@@ -45,6 +45,7 @@
   <a href="https://www.instagram.com/_r4nit/">
     <img align="left" alt="Ranit Pradhan | Instagram" width="24px" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
+    <a href="https://www.instagram.com/_r4nit/">
   <a href="mailto:pradhanranit0019@gmail.com">
     <img align="left" alt="Vivek Kumar Singh | Gmail" width="26px" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Gmail.svg" />
   </a>
