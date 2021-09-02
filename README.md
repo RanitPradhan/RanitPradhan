@@ -40,10 +40,10 @@
 # Connect with me<img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Handshake.gif" height="32px">
 
   <a href="https://www.linkedin.com/in/ranit-pradhan/">
-    <img align="left" alt="Vivek Kumar Singh | Linkedin" width="24px" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="Ranit Pradhan | Linkedin" width="24px" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/_r4nit/">
-    <img align="left" alt="Vivek Kumar Singh | Instagram" width="24px" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="Ranit Pradhan | Instagram" width="24px" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:pradhanranit0019@gmail.com">
     <img align="left" alt="Vivek Kumar Singh | Gmail" width="26px" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Gmail.svg" />
