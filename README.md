@@ -4,7 +4,7 @@
 <!-- 
     &nbsp; [![HitCount](http://hits.dwyl.com/reachvivek/reachvivek.svg)](http://hits.dwyl.com/reachvivek/reachvivek)
 -->
-<img style="margin-right:20px" align="right" alt="GIF" src="https://c.tenor.com/dCffHrZ-4s0AAAAM/chidori-kakashi.gif?raw=1" height="300px" width="220px" />
+<img style="margin-right:20px" align="right" alt="GIF" src="https://c.tenor.com/dCffHrZ-4s0AAAAM/chidori-kakashi.gif?raw=1" height="300px" width="300px" />
 
 ### <img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Hi.gif" width="29px"> Hello World!&nbsp;<img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Earth.gif" width="24px">
 
