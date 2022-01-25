@@ -47,8 +47,6 @@
 </div>
 
 <br>
-<img src="https://c.tenor.com/dCffHrZ-4s0AAAAM/chidori-kakashi.gif" alt="chidori-kakashi" target="center" height="300px" width="300px">
-
 
 # Connect with me<img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Handshake.gif" height="32px">
 
