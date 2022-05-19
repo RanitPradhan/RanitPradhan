@@ -16,7 +16,7 @@
 - <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> **Exploring** in **Embedded Systems Development**.
 - <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/headbang.gif" width="20vw" /> *Looking to collaborate* on **Embedded & IoT Security  Projects**.
 - <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/hmm.gif" width="20vw" /> Like to spend sometime with **CTFs**🚩 and **finding** 🐛
-- <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** Big fan of [**The Copy Ninja**](https://www.google.com/search?gs_ssp=eJzj4tTP1TdINyzPqjJg9GLPTsxOLM7IBAA_JwZg&q=kakashi&rlz=1C1ZKTG_enIN859IN859&oq=kakashi&aqs=chrome.1.69i59j46i275i433i512j69i59j0i433i512j0i20i263i433i512l2j0i433i512j69i60.4489j0j7&sourceid=chrome&ie=UTF-8)
+- <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** Big fan of [**The Copy Ninja**](https://www.google.com/search?gs_ssp=eJzj4tTP1TdINyzPqjJg9GLPTsxOLM7IBAA_JwZg&q=kakashi&rlz=1C1ZKTG_enIN859IN859&oq=kakashi&aqs=chrome.1.69i59j46i275i433i512j69i59j0i433i512j0i20i263i433i512l2j0i433i512j69i60.4489j0j7&sourceid=chrome&ie=UTF-8) 👉
 - <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do leave a **Star** ⭐️ if you liked my work 👨‍💻.
 <br>
 
