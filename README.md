@@ -5,7 +5,7 @@
     &nbsp; [![HitCount](http://hits.dwyl.com/reachvivek/reachvivek.svg)](http://hits.dwyl.com/reachvivek/reachvivek)
 -->
 
-<img style="margin-right:20px" align="right" alt="GIF" src="https://thumbs.gfycat.com/AnxiousInfiniteBighorn-size_restricted.gif" height="265px" width="300px">
+<img style="margin-right:40px" align="right" alt="GIF" src="https://thumbs.gfycat.com/AnxiousInfiniteBighorn-size_restricted.gif" height="265px" width="300px">
 
 ### <img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Hi.gif" width="29px"> Hello World!&nbsp;<img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Earth.gif" width="24px">
 
