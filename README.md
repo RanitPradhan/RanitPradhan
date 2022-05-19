@@ -5,7 +5,7 @@
     &nbsp; [![HitCount](http://hits.dwyl.com/reachvivek/reachvivek.svg)](http://hits.dwyl.com/reachvivek/reachvivek)
 -->
 
-<img style="margin-right:40px" align="right" alt="Image" src="https://c4.wallpaperflare.com/wallpaper/114/751/814/naruto-kakashi-hatake-hd-wallpaper-preview.jpg" height="300px" width="350px">
+<img style="margin-right:40px" align="right" alt="Image" src="https://c4.wallpaperflare.com/wallpaper/114/751/814/naruto-kakashi-hatake-hd-wallpaper-preview.jpg" height="280px" width="350px">
 
 ### <img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Hi.gif" width="29px"> Hello World!&nbsp;<img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Earth.gif" width="24px">
 
